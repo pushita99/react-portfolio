@@ -8,6 +8,10 @@
     "imageSrc": "skills/css.png"
   },
   {
+    "title": "JavaScript",
+    "imageSrc": "skills/js.png"
+  },
+  {
     "title": "React",
     "imageSrc": "skills/react.png"
   },
@@ -16,15 +20,15 @@
     "imageSrc": "skills/node.png"
   },
   {
+    "title": "Nest Js",
+    "imageSrc": "skills/nestjs.png"
+  },
+  {
     "title": "RESTful API",
     "imageSrc": "skills/api.png"
   },
   {
     "title": "MySql",
     "imageSrc": "skills/mysql.png"
-  },
- {
-    "title": "Wordpress",
-    "imageSrc": "skills/wordpress.png"
   }
 ]

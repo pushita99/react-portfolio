@@ -1,29 +1,35 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
+    "role": "Frontend Developer (React)",
+    "organisation": "ItravelMix",
+    "startDate": "Nov 2023",
     "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
-  },
-  {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
-  },
-  {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Developed a tourism-focused web platform using HTML5, CSS3, TypeScript, and React.",
+      "Integrated APIs and payment gateways, and managed version control with Git."
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/itravelmix.png"
+  },
+  {
+    "role": "Frontend Developer (React)",
+    "organisation": "CDAI (Center for the Development of Software Applications)",
+    "startDate": "Feb 2022",
+    "endDate": "Jul 2024",
+    "experiences": [
+      "Created a web platform for managing transport indicators with React and TypeScript.",
+      "Optimized performance, reducing load times by 20% through improved code structure."
+    ],
+    "imageSrc": "history/cdai.png"
+  },
+  {
+    "role": "Intern",
+    "organisation": "Technological University of Havana (José Antonio Echeverría)",
+    "startDate": "Apr 2019",
+    "endDate": "Oct 2022",
+    "experiences": [
+      "Collaborated on a website for managing the Student Residence using React.",
+      "Refactored key components to enhance system efficiency and user experience."
+    ],
+    "imageSrc": "history/cujae.png"
   }
 ]

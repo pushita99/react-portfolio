@@ -16,15 +16,15 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "RESTful API",
+    "imageSrc": "skills/api.png"
   },
   {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
+    "title": "MySql",
+    "imageSrc": "skills/mysql.png"
   },
-  {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+ {
+    "title": "Wordpress",
+    "imageSrc": "skills/wordpress.png"
   }
 ]

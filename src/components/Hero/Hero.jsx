@@ -11,7 +11,7 @@ export const Hero = () => {
         <p className={styles.description}>
             I have over 3 years of experience in frontend development. I'm skilled in creating user interfaces and enhancing user experiences. Reach out if you'd like to learn more!
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="mailto:jenn.webdeveloper99@email.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>

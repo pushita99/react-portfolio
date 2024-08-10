@@ -4,8 +4,9 @@
   display: flex;
   flex-direction: column;
   border-radius: 10px;
-  background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
-  box-shadow: 0 16px 14px 0 #5e849ff5;
+  background: linear-gradient(180deg, #c5c5c64d 0%, #0000002e 100%);
+  box-shadow: 0 16px 14px 0 #333333f5;
+;
   padding: 18px 24px;
   max-width: 345px;
 }

@@ -1,5 +1,5 @@
 import React from "react";
-
+import { Link } from "react-router-dom";
 import styles from "./ProjectCard.module.css";
 import { getImageUrl } from "../../utils";
 
@@ -25,7 +25,7 @@ export const ProjectCard = ({
         })}
       </ul>
       <div className={styles.links}>
-        <a href={demo} className={styles.link}>
+        <a href={demo} target="_blank" rel="noopener noreferrer" className={styles.link}>
           Demo
         </a>
         <a href={source} className={styles.link}>

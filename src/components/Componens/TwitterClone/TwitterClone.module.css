@@ -1,0 +1,55 @@
+.container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.tweetForm {
+    display: flex;
+    flex-direction: column;
+}
+
+.tweetInput {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+.tweetButton {
+    background-color: #1da1f2;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.tweetButton:hover {
+    background-color: #0d8bcf;
+}
+
+.tweetList {
+    margin-top: 20px;
+}
+
+.tweet {
+    background-color: white;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.username {
+    font-weight: bold;
+}
+
+.content {
+    margin-top: 5px;
+}

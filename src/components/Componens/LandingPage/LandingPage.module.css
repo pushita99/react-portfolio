@@ -1,0 +1,97 @@
+.container {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+.header {
+    text-align: center;
+    padding: 100px 20px;
+    background-color: #007bff;
+    color: white;
+}
+
+.title {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.subtitle {
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+}
+
+.cta {
+    font-size: 1.2rem;
+    color: white;
+    background-color: #ff4757;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.cta:hover {
+    background-color: #e04050;
+}
+
+.features {
+    padding: 50px 20px;
+    background-color: #f4f4f4;
+}
+
+.featuresTitle {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+
+.featuresList {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.featureItem {
+    background-color: white;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+}
+
+.testimonials {
+    padding: 50px 20px;
+    background-color: #007bff;
+    color: white;
+}
+
+.testimonialsTitle {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+
+.testimonialList {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.testimonialItem {
+    background-color: #0056b3;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+    font-style: italic;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+}

@@ -9,7 +9,6 @@ import { Contact } from "./components/Contact/Contact";
 import {Projects} from "./components/Projects/Projects.jsx";
 import {LandingPage} from "./components/Componens/LandingPage/LandingPage.jsx";
 import {QuizApp} from "./components/Componens/QuizApp/QuizApp.jsx";
-import TwitterClone from "./components/Componens/TwitterClone/TwitterClone.jsx";
 import Dashboard from "./components/Componens/Dashboard/Dashboard.jsx";
 import Checkout from "./components/Componens/Checkout/Checkout.jsx";
 import Store from "./components/Componens/Store/Store.jsx";
@@ -36,7 +35,6 @@ function App() {
                     <Route path="/landing-page-demo" element={<LandingPage />} />
                     <Route path="/quiz-app" element={<QuizApp />} />
                     <Route path="/quiz-app" element={<QuizApp />} />
-                    <Route path="/twitter-clone" element={<TwitterClone />} />
                     <Route path="/admin-dashboard" element={<Dashboard />} />
                     <Route path="/store" element={<Store />} />
                     <Route path="/checkout" element={<Checkout />} />

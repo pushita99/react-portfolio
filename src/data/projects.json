@@ -1,74 +1,11 @@
 [
   {
-    "title": "Landing Page for Startup",
-    "category": "Landing Page",
-    "description": "A modern, responsive landing page for a startup. Features include animations, mobile responsiveness, and a sleek design.",
-    "skills": ["HTML", "CSS", "JavaScript"],
-    "imageSrc": "projects/project.png",
-    "demo": "/landing-page-demo",
-    "source": "https://github.com/pushita99/react-portfolio"
-  },
-  {
-    "title": "Interactive Quiz App",
-    "category": "Interactive Web App",
-    "description": "A dynamic quiz application with multiple categories, interactive elements, and real-time scoring.",
-    "skills": ["React", "JavaScript", "CSS Modules"],
-    "imageSrc": "projects/project.png",
-    "demo": "/quiz-app",
-    "source": "https://github.com/pushita99/react-portfolio"
-  },
-  {
-    "title": "Twitter clone",
-    "category": "Clonación de Sitios Web",
-    "description": "Una réplica del sitio de Twitter, diseñada para replicar su interfaz y funcionalidades principales.",
-    "skills": ["React", "Redux", "CSS Modules"],
-    "imageSrc": "projects/project.png",
-    "demo": "/twitter-clone",
-    "source": "https://github.com/pushita99/react-portfolio"
-  },
-  {
-    "title": "Projecto de Código Abierto",
-    "category": "Código Abierto",
-    "description": "Contribución a un proyecto de código abierto enfocado en la accesibilidad web.",
-    "skills": ["React", "Git", "TypeScript"],
-    "imageSrc": "projects/project.png",
-    "demo": "https://github.com/tu-usuario/open-source-project",
-    "source": "https://github.com/pushita99/react-portfolio"
-  },
-  {
     "title": "Dashboard Administrativo",
     "category": "Dashboards",
     "description": "Un dashboard interactivo para la administración de datos empresariales con visualizaciones gráficas.",
-    "skills": ["React", "Chart.js", "CSS Modules"],
-    "imageSrc": "projects/project.png",
+    "skills": ["React", "Chart.js", "Leaflet", "CSS Modules"],
+    "imageSrc": "projects/dashboard.png",
     "demo": "/admin-dashboard",
-    "source": "https://github.com/pushita99/react-portfolio"
-  },
-  {
-    "title": "Tienda Online",
-    "category": "E-commerce",
-    "description": "Una tienda en línea con integración de carrito de compras y pasarela de pago simulada.",
-    "skills": ["React", "Redux", "Stripe API"],
-    "imageSrc": "projects/project.png",
-    "demo": "/store",
-    "source": "https://github.com/pushita99/react-portfolio"
-  },
-  {
-    "title": "Componentes Reutilizables",
-    "category": "Componentes Reutilizables",
-    "description": "Una colección de componentes de UI reutilizables desarrollados para proyectos frontend.",
-    "skills": ["React", "TypeScript", "Storybook"],
-    "imageSrc": "projects/project.png",
-    "demo": "https://reusable-components-demo.com",
-    "source": "https://github.com/pushita99/react-portfolio"
-  },
-  {
-    "title": "Projecto Freelance",
-    "category": "Proyectos Freelance",
-    "description": "Desarrollo de una web para un cliente, con diseño personalizado y funcionalidades específicas.",
-    "skills": ["React", "JavaScript", "CSS Modules"],
-    "imageSrc": "projects/project.png",
-    "demo": "https://freelance-project.com",
     "source": "https://github.com/pushita99/react-portfolio"
   }
 ]

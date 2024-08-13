@@ -19,7 +19,7 @@ function Home() {
             <Hero/>
             <About/>
             <Experience/>
-           {/* <Projects/>*/}
+            <Projects/>
             <Contact/>
         </>
     );

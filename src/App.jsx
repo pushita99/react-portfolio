@@ -16,11 +16,14 @@ import Store from "./components/Componens/Store/Store.jsx";
 function Home() {
     return (
         <>
-            <Hero/>
-            <About/>
-            <Experience/>
-            <Projects/>
-            <Contact/>
+            <div className={styles.App}>
+                <Navbar/>
+                <Hero/>
+                <About/>
+                <Experience/>
+                <Projects/>
+                <Contact/>
+            </div>
         </>
     );
 }
@@ -28,18 +31,15 @@ function Home() {
 function App() {
     return (
         <Router>
-            <div className={styles.App}>
-                <Navbar/>
-                <Routes>
-                    <Route path="/" element={<Home/>}/>
-                    <Route path="/landing-page-demo" element={<LandingPage/>}/>
-                    <Route path="/quiz-app" element={<QuizApp/>}/>
-                    <Route path="/quiz-app" element={<QuizApp/>}/>
-                    <Route path="/admin-dashboard" element={<Dashboard/>}/>
-                    <Route path="/store" element={<Store/>}/>
-                    <Route path="/checkout" element={<Checkout/>}/>
-                </Routes>
-            </div>
+            <Routes>
+                <Route path="/" element={<Home/>}/>
+                <Route path="/landing-page-demo" element={<LandingPage/>}/>
+                <Route path="/quiz-app" element={<QuizApp/>}/>
+                <Route path="/quiz-app" element={<QuizApp/>}/>
+                <Route path="/admin-dashboard" element={<Dashboard/>}/>
+                <Route path="/store" element={<Store/>}/>
+                <Route path="/checkout" element={<Checkout/>}/>
+            </Routes>
         </Router>
     );
 }

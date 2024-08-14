@@ -4,8 +4,17 @@
     "category": "Dashboards",
     "description": "Un dashboard interactivo para la administración de datos empresariales con visualizaciones gráficas.",
     "skills": ["React", "Chart.js", "Leaflet", "CSS Modules"],
-    "imageSrc": "projects/dashboard.png",
+    "imageSrc": "projects/project.png",
     "demo": "/admin-dashboard",
+    "source": "https://github.com/pushita99/react-portfolio"
+  },
+  {
+    "title": "Landing Page for Startup",
+    "category": "Landing Page",
+    "description": "A modern, responsive landing page for a startup. Features include animations, mobile responsiveness, and a sleek design.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "imageSrc": "projects/project.png",
+    "demo": "/landing-page-demo",
     "source": "https://github.com/pushita99/react-portfolio"
   }
 ]

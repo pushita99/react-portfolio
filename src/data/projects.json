@@ -16,5 +16,14 @@
     "imageSrc": "projects/project.png",
     "demo": "/landing-page-demo",
     "source": "https://github.com/pushita99/react-portfolio"
+  },
+  {
+    "title": "Instagram Clone",
+    "category": "Website Clone",
+    "description": "A replica of Instagram designed to mimic its core interface and functionalities. Built with React and modern web technologies, this project includes features like user authentication, dynamic content loading, and responsive design.",
+    "skills": ["React", "Redux", "CSS Modules", "Firebase", "Zustand"],
+    "imageSrc": "projects/project.png",
+    "demo": "https://my-instagram-demo-url(i need to publish this project i have it on github)",
+    "source": "https://github.com/pushita99/react-portfolio"
   }
 ]

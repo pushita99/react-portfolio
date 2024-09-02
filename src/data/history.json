@@ -11,7 +11,7 @@
     "imageSrc": "history/itravelmix.png"
   },
   {
-    "role": "Frontend Developer (React)",
+    "role": "Frontend Developer (Vue2, NestJs)",
     "organisation": "CDAI (Center for the Development of Software Applications)",
     "startDate": "Feb 2022",
     "endDate": "Jul 2024",
@@ -21,7 +21,7 @@
     "imageSrc": "history/cdai.png"
   },
   {
-    "role": "Intern",
+    "role": "Intern (Vue2)",
     "organisation": "Technological University of Havana (José Antonio Echeverría)",
     "startDate": "Apr 2019",
     "endDate": "Oct 2022",
